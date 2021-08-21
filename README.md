@@ -6,5 +6,4 @@
 
  🔭 I’m currently working on React + Firebase
  🌱 I’m currently learning React with Firebase stuff
- 🤔 I’m looking for help with Styled components & Flutter
  💬 Ask me about Html,css,javascript, jss, react js
